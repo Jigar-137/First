@@ -1,2 +1,3 @@
 # First
-This is my first github repositry.
+This is my first git Repository.
+Author-Jigar chaudhary
